@@ -70,3 +70,25 @@ It includes:
 
 🔗 [Live Streamlit App](https://jatayuv-ai-project-vo6nw3nxmallzusynipkbk.streamlit.app/)  
 
+## 🚀 Tech Stack
+
+- Python 🐍
+- Streamlit
+- scikit-learn
+- pandas
+- matplotlib
+
+---
+
+## 🙌 Acknowledgment
+
+This project was built as part of an internship assignment for **Jatayuv AI** and demonstrates skills in data science, ML, recommender systems, and full-stack AI app deployment.
+
+---
+
+## 📬 Contact
+
+**Vinay Kumar Gorli**  
+📍 Srikakulam | CSE (AI & ML) Graduate  
+📧 [gorlivinaykumar9876@gmail.com] | 💼 [LinkedIn](www.linkedin.com/in/vinay-kumar-gorli-263634266)
+
