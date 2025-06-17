@@ -90,5 +90,6 @@ This project was built as part of an internship assignment for **Jatayuv AI** an
 
 **Vinay Kumar Gorli**  
 📍 Srikakulam | CSE (AI & ML) Graduate  
-📧 [gorlivinaykumar9876@gmail.com] | 💼 [LinkedIn](www.linkedin.com/in/vinay-kumar-gorli-263634266)
+📧 [gorlivinaykumar9876@gmail.com] | 💼 🔗 [**LinkedIn – Vinay Kumar Gorli**](https://www.linkedin.com/in/vinay-kumar-gorli-263634266)
+
 
